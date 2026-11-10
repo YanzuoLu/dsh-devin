@@ -1,0 +1,3 @@
+- insert:
+    - id: devin
+      name: ./dist/host/022c8dca7c28/index.js
